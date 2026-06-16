@@ -1,0 +1,88 @@
+Hay varios métodos especiales además de __init__:
+
+__init__     # Constructor
+__str__      # Texto para imprimir el objeto
+__len__      # Funciona con len()
+__add__      # Operador +
+__sub__      # Operador -
+
+__mul__      # Operador *
+__truediv__   # Operador /
+__floordiv__  # Operador //
+__mod__      # Operador %
+__pow__      # Operador **
+__eq__       # Operador ==
+__ne__       # Operador !=
+__lt__       # Operador <
+__le__       # Operador <=
+__gt__       # Operador >
+__ge__       # Operador >=
+__getitem__  # Permite acceder a elementos con []
+__setitem__  # Permite asignar valores a elementos con []
+__delitem__  # Permite eliminar elementos con del
+__iter__     # Permite iterar sobre el objeto
+__next__     # Devuelve el siguiente elemento en una iteración
+__call__     # Permite llamar al objeto como una función
+__enter__    # Para usar con 'with'
+__exit__     # Para usar con 'with'
+__repr__     # Representación oficial del objeto
+__bool__     # Para evaluar la verdad del objeto
+__hash__     # Para usar el objeto como clave en un diccionario
+__copy__     # Para crear una copia superficial del objeto
+__deepcopy__   # Para crear una copia profunda del objeto
+__slots__     # Para definir atributos de clase y ahorrar memoria
+__class__     # Para acceder a la clase del objeto
+__dict__      # Para acceder a los atributos del objeto como un diccionario
+__doc__       # Para acceder a la documentación del objeto
+__module__    # Para acceder al módulo donde se define la clase
+__name__      # Para acceder al nombre de la clase
+__qualname__  # Para acceder al nombre calificado de la clase
+__annotations__ # Para acceder a las anotaciones de tipo de la clase
+__bases__     # Para acceder a las clases base de la clase
+__mro__       # Para acceder al orden de resolución de métodos de la clase
+__subclasses__ # Para acceder a las clases derivadas de la clase
+__init_subclass__ # Para personalizar la creación de clases derivadas
+__prepare__   # Para personalizar la creación del espacio de nombres de la clase
+__instancecheck__ # Para personalizar la comprobación de instancias
+__subclasscheck__  # Para personalizar la comprobación de subclases
+__getattr__   # Para personalizar el acceso a atributos no existentes
+__setattr__   # Para personalizar la asignación de atributos
+__delattr__   # Para personalizar la eliminación de atributos
+__dir__       # Para personalizar la lista de atributos disponibles
+__getattribute__ # Para personalizar el acceso a cualquier atributo
+__setattribute__ # Para personalizar la asignación de cualquier atributo
+__delattribute__ # Para personalizar la eliminación de cualquier atributo
+__format__    # Para personalizar la representación de formato del objeto
+__sizeof__    # Para personalizar el tamaño del objeto en memoria
+__subclasshook__ # Para personalizar la comprobación de subclases con ABCs
+__instancecheck__ # Para personalizar la comprobación de instancias con ABCs
+__subclasscheck__  # Para personalizar la comprobación de subclases con ABCs
+__getnewargs__ # Para personalizar los argumentos de creación de objetos con pickle
+__getstate__   # Para personalizar el estado del objeto con pickle
+__setstate__   # Para personalizar la restauración del estado del objeto con pickle
+__reduce__     # Para personalizar la reducción del objeto con pickle
+__reduce_ex__  # Para personalizar la reducción del objeto con pickle en versiones específicas
+__sizeof__    # Para personalizar el tamaño del objeto en memoria
+__dir__       # Para personalizar la lista de atributos disponibles
+__class_getitem__ # Para personalizar el acceso a elementos de clase con []
+__class_setitem__ # Para personalizar la asignación de elementos de clase con []
+__class_delitem__ # Para personalizar la eliminación de elementos de clase con del
+__instancecheck__ # Para personalizar la comprobación de instancias con ABCs
+__subclasscheck__  # Para personalizar la comprobación de subclases con ABC
+__getattr__   # Para personalizar el acceso a atributos no existentes
+__setattr__   # Para personalizar la asignación de atributos
+__delattr__   # Para personalizar la eliminación de atributos
+__dir__       # Para personalizar la lista de atributos disponibles
+__getattribute__ # Para personalizar el acceso a cualquier atributo
+__setattribute__ # Para personalizar la asignación de cualquier atributo
+__delattribute__ # Para personalizar la eliminación de cualquier atributo
+__format__    # Para personalizar la representación de formato del objeto
+__sizeof__    # Para personalizar el tamaño del objeto en memoria
+__subclasshook__ # Para personalizar la comprobación de subclases con ABCs
+__instancecheck__ # Para personalizar la comprobación de instancias con ABCs
+__subclasscheck__  # Para personalizar la comprobación de subclases con ABC
+__getnewargs__ # Para personalizar los argumentos de creación de objetos con pickle
+__getstate__   # Para personalizar el estado del objeto con pickle
+__setstate__   # Para personalizar la restauración del estado del objeto con pickle
+__reduce__     # Para personalizar la reducción del objeto con pickle
+__reduce_ex__  # Para personalizar la reducción del objeto con pickle en versiones específicas

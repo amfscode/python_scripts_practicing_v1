@@ -1,3 +1,5 @@
+# Conceptos  APIs JSON HTTP requests
+
 import requests         #para hacer peticiones HTTP a APIs y sitios web
 url = "https://jsonplaceholder.typicode.com/users" # # URL de la API que queremos consultar.
 respuesta = requests.get(url)       # # Realiza una petición GET a la URL.

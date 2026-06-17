@@ -1,0 +1,60 @@
+ FUNCIONES MÁS IMPORTANTES
+
+print()         # Muestra datos en pantalla
+input()         # Lee datos del usuario
+len()           # Cuenta elementos
+type()          # Muestra el tipo de dato
+int()           # Convierte a entero
+float()         # Convierte a decimal
+str()           # Convierte a texto
+range()         # Genera secuencias numéricas
+enumerate()     # Devuelve índice y valor
+sum()           # Suma elementos
+max()           # Devuelve el mayor valor
+min()           # Devuelve el menor valor
+sorted()        # Ordena elementos
+open()          # Abre archivos
+isinstance()    # Comprueba tipos de datos
+
+  FUNCIONES MÁS USADAS EN PYTHON
+
+print()         # Muestra información en pantalla
+input()         # Solicita datos al usuario
+len()           # Devuelve la cantidad de elementos
+type()          # Muestra el tipo de dato
+int()           # Convierte a entero
+float()         # Convierte a decimal
+str()           # Convierte a cadena de texto
+bool()          # Convierte a booleano
+list()          # Convierte a lista
+tuple()         # Convierte a tupla
+set()           # Convierte a conjunto
+dict()          # Crea un diccionario
+range()         # Genera una secuencia de números
+enumerate()     # Devuelve índice y valor al recorrer
+zip()           # Une elementos de varias colecciones
+sorted()        # Devuelve una colección ordenada
+reversed()      # Devuelve una colección invertida
+sum()           # Suma elementos numéricos
+max()           # Devuelve el valor máximo
+min()           # Devuelve el valor mínimo
+abs()           # Devuelve el valor absoluto
+round()         # Redondea un número
+pow()           # Calcula potencias
+divmod()        # Devuelve cociente y residuo
+all()           # True si todos los elementos son True
+any()           # True si al menos uno es True
+map()           # Aplica una función a cada elemento
+filter()        # Filtra elementos según una condición
+open()          # Abre un archivo
+help()          # Muestra ayuda sobre objetos o funciones
+id()            # Devuelve el identificador de un objeto
+isinstance()    # Verifica si un objeto es de un tipo
+ord()           # Convierte un carácter a código Unicode
+chr()           # Convierte código Unicode a carácter
+bin()           # Convierte a binario
+hex()           # Convierte a hexadecimal
+oct()           # Convierte a octal
+eval()          # Evalúa una expresión como código Python
+globals()       # Devuelve variables globales
+locals()        # Devuelve variables locales

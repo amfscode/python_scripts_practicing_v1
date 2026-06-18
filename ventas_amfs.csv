@@ -1,5 +1,5 @@
-producto,monto
-Laptop,1500
-Mouse,50
-Teclado,100
-Audifonos,200
+producto,monto,venta
+Laptop,1500,1560
+Mouse,50,506
+Teclado,100,100
+Audifonos,200,220

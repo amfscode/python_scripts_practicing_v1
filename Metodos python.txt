@@ -1,62 +1,62 @@
  MÉTODOS MÁS IMPORTANTES
 
-append()    # Agrega un elemento al final de una lista
-remove()    # Elimina un elemento por valor
-pop()       # Elimina un elemento por índice
-sort()      # Ordena una lista
-reverse()   # Invierte una lista
-split()     # Divide un texto en una lista
-join()      # Une elementos en un texto
-replace()   # Reemplaza texto
-strip()     # Elimina espacios sobrantes
-upper()     # Convierte a mayúsculas
-lower()     # Convierte a minúsculas
-get()       # Obtiene un valor de un diccionario
-items()     # Obtiene clave y valor com tupla
-keys()      # Obtiene las claves
-values()    # Obtiene los valores
+.append()    # Agrega un elemento al final de una lista
+.remove()    # Elimina un elemento por valor
+.pop()       # Elimina un elemento por índice
+.sort()      # Ordena una lista
+.reverse()   # Invierte una lista
+.split()     # Divide un texto en una lista
+",".join()      # Une elementos en un texto
+.replace()   # Reemplaza texto
+.strip()     # Elimina espacios sobrantes
+.upper()     # Convierte a mayúsculas
+.lower()     # Convierte a minúsculas
+.get()       # Obtiene un valor de un diccionario
+.items()     # Obtiene clave y valor com tupla
+.keys()      # Obtiene las claves
+.values()    # Obtiene los valores
 
  MÉTODOS MÁS USADOS EN PYTHON
 
-upper()         # Convierte el texto a MAYÚSCULAS
-lower()         # Convierte el texto a minúsculas
-title()         # Primera letra de cada palabra en mayúscula
-capitalize()    # Primera letra de la cadena en mayúscula
-strip()         # Elimina espacios al inicio y final
-lstrip()        # Elimina espacios a la izquierda
-rstrip()        # Elimina espacios a la derecha
-replace()       # Reemplaza una parte del texto
-split()         # Divide una cadena en una lista
-join()          # Une elementos de una lista en una cadena
-find()          # Busca una subcadena y devuelve su posición
-index()         # Busca una subcadena y devuelve su posición
-startswith()    # Verifica si empieza con un texto
-endswith()      # Verifica si termina con un texto
-count()         # Cuenta cuántas veces aparece algo
-isalpha()       # Verifica si contiene solo letras
-isdigit()       # Verifica si contiene solo números
-isalnum()       # Verifica si contiene letras y números
-format()        # Formatea cadenas de texto
-center()        # Centra un texto
+.upper()         # Convierte el texto a MAYÚSCULAS
+.lower()         # Convierte el texto a minúsculas
+.title()         # Primera letra de cada palabra en mayúscula
+.capitalize()    # Primera letra de la cadena en mayúscula
+.strip()         # Elimina espacios al inicio y final
+.lstrip()        # Elimina espacios a la izquierda
+.rstrip()        # Elimina espacios a la derecha
+.replace()       # Reemplaza una parte del texto
+.split()         # Divide una cadena en una lista
+",".join()          # Une elementos de una lista en una cadena
+.find()          # Busca una subcadena y devuelve su posición
+.index()         # Busca una subcadena y devuelve su posición
+.startswith()    # Verifica si empieza con un texto
+.endswith()      # Verifica si termina con un texto
+.count()         # Cuenta cuántas veces aparece algo
+.isalpha()       # Verifica si contiene solo letras
+.isdigit()       # Verifica si contiene solo números
+.isalnum()       # Verifica si contiene letras y números
+.format()        # Formatea cadenas de texto
+.center()        # Centra un texto
 
-append()        # Agrega un elemento al final de una lista
-extend()        # Agrega varios elementos a una lista
-insert()        # Inserta un elemento en una posición específica
-remove()        # Elimina un elemento por su valor
-pop()           # Elimina un elemento por índice
-clear()         # Vacía la lista
-index()         # Devuelve la posición de un elemento
-count()         # Cuenta repeticiones de un elemento
-sort()          # Ordena una lista
-reverse()       # Invierte el orden de una lista
+.append()        # Agrega un elemento al final de una lista
+.extend()        # Agrega varios elementos a una lista
+.insert()        # Inserta un elemento en una posición específica
+.remove()        # Elimina un elemento por su valor
+.pop()           # Elimina un elemento por índice
+.clear()         # Vacía la lista
+.index()         # Devuelve la posición de un elemento
+.count()         # Cuenta repeticiones de un elemento
+.sort()          # Ordena una lista
+.reverse()       # Invierte el orden de una lista
 
-keys()          # Devuelve las claves de un diccionario
-values()        # Devuelve los valores de un diccionario
-items()         # Devuelve clave y valor como tuplas
-get()           # Obtiene un valor sin generar error
-update()        # Actualiza un diccionario
-pop()           # Elimina una clave específica
-popitem()       # Elimina el último elemento
-clear()         # Vacía el diccionario
-copy()          # Crea una copia del diccionario
-setdefault()    # Obtiene o crea una clave
+.keys()          # Devuelve las claves de un diccionario
+.values()        # Devuelve los valores de un diccionario
+.items()         # Devuelve clave y valor como tuplas
+.get()           # Obtiene un valor sin generar error
+.update()        # Actualiza un diccionario
+.pop()           # Elimina una clave específica
+.popitem()       # Elimina el último elemento
+.clear()         # Vacía el diccionario
+.copy()          # Crea una copia del diccionario
+.setdefault()    # Obtiene o crea una clave
